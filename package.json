@@ -1,0 +1,25 @@
+{
+  "name": "upload115",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhnQiraj/upload115.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhnQiraj/upload115/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "commander": "^2.17.0",
+    "request": "^2.87.0",
+    "underscore": "^1.9.1"
+  }
+  "homepage": "https://github.com/AhnQiraj/upload115#readme"
+}
